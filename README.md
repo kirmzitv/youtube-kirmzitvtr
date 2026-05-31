@@ -1,40 +1,52 @@
-# Kirmzi TV TR
+<div align="center">
 
-<p align="center">
-  <img src="https://yt3.googleusercontent.com/" width="120" alt="Kirmzi TV Logo">
-</p>
+<img src="./قرمزي.png" alt="قرمزي" width="180">
 
-<h2 align="center">قناة قرمزي الرسمية</h2>
+# قناة قرمزي الرسمية
 
-<p align="center">
-أحدث المسلسلات التركية المترجمة بجودة عالية وتحديثات مستمرة فور صدور الحلقات.
-</p>
+### Kirmzi TV TR
+
+🎬 جديد المسلسلات التركية المترجمة  
+📺 حلقات جديدة فور صدورها  
+🔔 تحديثات مستمرة وجودة عالية
+
+<br>
+
+<a href="https://youtube.com/@kirmzitvtr">
+  <img src="https://img.shields.io/badge/YouTube-@kirmzitvtr-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://github.com/kirmzitv/youtube-kirmzitvtr">
+  <img src="https://img.shields.io/badge/GitHub-KirmziTV-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 ## 📺 عن القناة
 
-قناة **Kirmzi TV TR** متخصصة في نشر ومتابعة جديد المسلسلات التركية المترجمة، مع الحرص على تقديم المحتوى بأفضل جودة وتجربة مشاهدة مميزة للمتابعين.
+قناة **قرمزي الرسمية** متخصصة في متابعة ونشر جديد المسلسلات التركية المترجمة، مع تحديثات مستمرة للحلقات فور صدورها.
 
-### ✨ المميزات
+## ✨ المميزات
 
-- نشر الحلقات الجديدة فور صدورها.
+- نشر الحلقات الجديدة أولاً بأول.
 - متابعة أحدث المسلسلات التركية.
-- تحديثات مستمرة.
-- جودة مشاهدة عالية.
-- محتوى منظم وسهل الوصول.
-
----
+- تحديثات يومية.
+- تنظيم المحتوى بشكل سهل وسريع.
+- تجربة مشاهدة مميزة.
 
 ## 🔗 الروابط الرسمية
 
 - YouTube: https://youtube.com/@kirmzitvtr
-- GitHub: https://github.com/kirmzitv
+- GitHub: https://github.com/kirmzitv/youtube-kirmzitvtr
 
 ---
 
-## 📢 تابعنا
+<div align="center">
 
-لا تفوت أي حلقة جديدة، اشترك في قناة **قرمزي الرسمية** وفعل التنبيهات ليصلك كل جديد أولاً بأول.
+### تابع قناة قرمزي الرسمية
 
 **@kirmzitvtr**
+
+</div>
